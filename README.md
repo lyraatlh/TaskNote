@@ -2,9 +2,8 @@
 
 A modern, comprehensive productivity application built with React, TypeScript, and Vite that combines task management and note-taking functionality in a unified platform.
 
-![TaskNote Dashboard]()
+# TaskNote Dashboard
 <img width="1919" height="967" alt="Screenshot 2025-07-19 191734" src="https://github.com/user-attachments/assets/6e28b160-dbc2-41cb-8992-d14c2d4336be" />
-
 
 ## 📋 Description
 
